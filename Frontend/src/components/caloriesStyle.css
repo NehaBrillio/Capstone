@@ -1,0 +1,67 @@
+.outer{
+    background-color: white;
+    border-radius: 8px;
+    margin-bottom: 10px;
+   text-align: left;
+   display: grid; 
+   grid-template-columns: 25% 1fr; 
+   grid-gap: 20px; 
+   justify-content: center;
+  
+}   
+
+input{
+    width: 100%;    
+}
+
+#breakfast{
+    display: flex;
+    flex-direction: row; 
+}
+
+#quote{
+    color: darkgoldenrod;
+
+}
+
+label{
+    padding:10px;
+}
+
+#head{
+    padding: 0px;
+    padding-left: 5px;
+}
+td{
+    padding: 20px;
+    background-color: #CEEDC7;
+
+}
+.meals{
+    font-size: larger;
+   
+}
+
+.inner1{
+    border: 2px solid lightpink ;
+    border-radius: 1rem;
+    padding: 30px;
+    margin: 30px;
+    display: grid; 
+   grid-template-columns: 2fr 1fr; 
+   grid-gap: 20px; 
+}
+.left{
+    padding: 20px;
+}
+.right{
+    background-color: #CEEDC7;
+    padding: 20px;
+}
+
+#today{
+    border: 2px solid #829460;
+    padding: 3px;
+    border-radius: 1rem;
+}
+
