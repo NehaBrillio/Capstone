@@ -1,0 +1,9 @@
+Steps to Start the appplication:
+
+Step 1: Create a React app with the name Frontend.
+Step 2: Copy All of Frontend Folder's Contents to the react app frontend folder and replace all the files.
+Step 3: Open SQL Workbench and create a database with the name "healtifyMeApp".
+Step 4: Import Backend as an Existing Maven Project and open application.properties file.
+Step 5: Change the "spring.datasource.username" and "spring.datasource.password" sections to your SQL credentials.
+Step 6: Run the Spring Project
+Step 7: run the React Application.
